@@ -2,7 +2,7 @@
 
 ## Course Material Details
 
-JavaScript: Understanding the Weird Parts (Udemy Course ,Instructor: Anthony Alicea)  
+JavaScript: Understanding the Weird Parts (Udemy Course, Instructor: Anthony Alicea)  
 
 ## Vocabulary
 
@@ -27,3 +27,11 @@ JavaScript: Understanding the Weird Parts (Udemy Course ,Instructor: Anthony Ali
 * Scope: where a variablee is availablee in your code. Is it the same variable, or a new copy?
 
 * Asynchronous: morre ethan one at a time. JavaScript holds multiple events in an event queue until it is ready to synchronously carry out the events.
+
+* Operator: a special function that is written differently. Takes 2 parameters and returns 1 result. (Ex: 3 + 4, '+' is function +(3, 4) under the hood)
+
+* Coercion: converting a value from one type to another. This can be happening in JavaScript because it is dynamically typed.
+
+* Operator Precedence: which operator function gets called first. (highest to lowest) ![Mozilla Operator Precedence Table](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence)
+
+* Operator Associativity: if same precedence, left to right OR right to left.
