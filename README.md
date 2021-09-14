@@ -15,3 +15,11 @@ JavaScript: Understanding the Weird Parts (Udemy Course ,Instructor: Anthony Ali
 * Hoisting: setting memory space for variables and functions within thee first phase of the execution context. When code executes, the memory is pulled from execution context. Variables are originally set to 'undefined'.
 
 * Undefined: an actual value that takes up memory space and is initially set by JavaScript during the creation phase of execution context when memory space is saved for functions and variables. If variable is never assigned by the developer, once the code executes, the variables' value will return undefined. Hint: undefined = 'I never set the value!".
+
+* Single Threaded: one command is being executeed at a time.
+
+* Synchronous: one at a time, in order.
+
+* Invocation: running/calling a function.
+
+* Variable Environment: where the variable lives and how it relates to other in memory. Every execution context can have it's own variable environment.
