@@ -37,3 +37,5 @@ JavaScript: Understanding the Weird Parts (Udemy Course, Instructor: Anthony Ali
 * Operator Associativity: if same precedence, left to right OR right to left.
 
 * Namespace: a container for variables and functions. JavaScript doesn't have these, explicity, so we fake it with objects.
+
+* First Class Functions: everything you can do with other types you can do with functions - assign them variables, pass them around, create them on the fly. They can have primitives, objects, and functions on them, just like objects, but they also have a name (optional) and the invocable code.
