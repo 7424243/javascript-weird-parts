@@ -41,7 +41,7 @@ console.log(d); // logs {greeting: 'Hola'}
 /**
  * equals operator sets up new memory space (new address)
  */
-c = { greeting: 'howdy'}; //this doesn't exist as of yet, so it creates it on the fly
+c = { greeting: 'howdy'}; //this doesn't exist as of yet, so it creates and points it to memory on the fly
 console.log(c); // logs {greeting: 'Howdy'}
 console.log(d); // logs {greeting: 'Hola'}
 
