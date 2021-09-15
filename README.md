@@ -35,3 +35,5 @@ JavaScript: Understanding the Weird Parts (Udemy Course, Instructor: Anthony Ali
 * Operator Precedence: which operator function gets called first. (highest to lowest) ![Mozilla Operator Precedence Table](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence)
 
 * Operator Associativity: if same precedence, left to right OR right to left.
+
+* Namespace: a container for variables and functions. JavaScript doesn't have these, explicity, so we fake it with objects.
