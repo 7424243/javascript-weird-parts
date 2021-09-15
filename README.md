@@ -45,3 +45,5 @@ JavaScript: Understanding the Weird Parts (Udemy Course, Instructor: Anthony Ali
 * Statement: just does work.
 
 * Whitespace: invisible characters that create literal 'space' in your written code (returns, spaces, tabs).
+
+* Closure: a JavaScrript feature wherrer a function is bundled together with references to its surrounding lexical environment. Gives access to outer function's scope from an inner function. Created everrytime a function is created.
