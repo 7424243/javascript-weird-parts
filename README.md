@@ -39,3 +39,7 @@ JavaScript: Understanding the Weird Parts (Udemy Course, Instructor: Anthony Ali
 * Namespace: a container for variables and functions. JavaScript doesn't have these, explicity, so we fake it with objects.
 
 * First Class Functions: everything you can do with other types you can do with functions - assign them variables, pass them around, create them on the fly. They can have primitives, objects, and functions on them, just like objects, but they also have a name (optional) and the invocable code.
+
+* Expression: a unit of code that results in a value - a value is returned.
+
+* Statement: just does work.
