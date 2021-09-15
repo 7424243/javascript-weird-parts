@@ -43,3 +43,5 @@ JavaScript: Understanding the Weird Parts (Udemy Course, Instructor: Anthony Ali
 * Expression: a unit of code that results in a value - a value is returned.
 
 * Statement: just does work.
+
+* Whitespace: invisible characters that create literal 'space' in your written code (returns, spaces, tabs).
