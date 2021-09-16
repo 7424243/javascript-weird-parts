@@ -57,3 +57,5 @@ JavaScript: Understanding the Weird Parts (Udemy Course, Instructor: Anthony Ali
 * Reflection: an object can look at itself, listing and changing its properties and methods.
 
 * Function Constructors: a normal function that is used to construct objects.
+
+* Polyfill: code that adds a feature which the engine may lack. (different versions)
