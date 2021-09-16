@@ -55,3 +55,5 @@ JavaScript: Understanding the Weird Parts (Udemy Course, Instructor: Anthony Ali
 * Inheritance: one object gets access to the properties and methods of another object. Classical vs. Prototypal.
 
 * Reflection: an object can look at itself, listing and changing its properties and methods.
+
+* Function Constructors: a normal function that is used to construct objects.
