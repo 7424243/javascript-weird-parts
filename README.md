@@ -47,3 +47,5 @@ JavaScript: Understanding the Weird Parts (Udemy Course, Instructor: Anthony Ali
 * Whitespace: invisible characters that create literal 'space' in your written code (returns, spaces, tabs).
 
 * Closure: a JavaScrript feature wherrer a function is bundled together with references to its surrounding lexical environment. Gives access to outer function's scope from an inner function. Created everrytime a function is created.
+
+* Callback: a function you give to another function, as a parameter, to be run when the other function is finished.
