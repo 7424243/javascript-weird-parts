@@ -51,3 +51,7 @@ JavaScript: Understanding the Weird Parts (Udemy Course, Instructor: Anthony Ali
 * Callback: a function you give to another function, as a parameter, to be run when the other function is finished.
 
 * Function Currying: creating a copy of a function but with some preset parameters. (Using .bind())
+
+* Inheritance: one object gets access to the properties and methods of another object. Classical vs. Prototypal.
+
+* Reflection: an object can look at itself, listing and changing its properties and methods.
